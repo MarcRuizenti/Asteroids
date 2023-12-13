@@ -17,6 +17,5 @@ public class MovimientoTriangulo : MonoBehaviour
 
         transform.position += new Vector3(horizontal, vertical, 0) * Time.deltaTime * speed;
 
-       
     }
 }
